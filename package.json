@@ -11,6 +11,10 @@
     "line"
   ],
   "author": "Julien Gilli",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/misterdjules/line-stream.git"
+  },
   "license": "ISC",
   "dependencies": {
     "debug": "^1.0.2"
