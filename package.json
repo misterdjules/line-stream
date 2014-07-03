@@ -1,7 +1,7 @@
 {
-  "name": "line-stream",
+  "name": "yals",
   "version": "0.0.1",
-  "description": "Transform stream that emits lines.",
+  "description": "Yet Another Line Stream that emits text lines from input data.",
   "main": "index.js",
   "scripts": {
     "test": "node test/test.js"
