@@ -7,5 +7,5 @@ node_js:
 # npm update needed to get a version compatible with
 # new semver conventions (usage of the caret "^" instead of "~" to
 # specify dependencies' version) when Travis uses node 0.8.
-before_script:
+before_install:
   - npm update -g npm
